@@ -7,8 +7,8 @@
 ## Overview
 
 This project investigates statistical associations between Instagram usage 
-patterns and three outcomes — perceived stress score, self-reported happiness, 
-and daily active Instagram minutes — using 1,547,896 synthetic user profiles 
+patterns and three outcome:perceived stress score, self-reported happiness, 
+and daily active Instagram minutes using 1,547,896 synthetic user profiles 
 spanning 58 variables (SMUBL dataset, Kaggle 2025).
 
 A dual inferential and predictive framework is applied across parametric and 
