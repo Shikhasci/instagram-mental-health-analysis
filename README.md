@@ -109,14 +109,4 @@ python Final_prediction.py
 
 ---
 
-## References
-
-- Verduyn et al. (2015). Passive Facebook usage undermines affective well-being. *Journal of Experimental Psychology: General.*
-- Chen & Guestrin (2016). XGBoost: A scalable tree boosting system. *KDD 2016.*
-- Ke et al. (2017). LightGBM: A highly efficient gradient boosting decision tree. *NeurIPS.*
-- Lundberg & Lee (2017). A unified approach to interpreting model predictions. *NeurIPS.*
-- Orben & Przybylski (2019). The association between adolescent well-being and digital technology use. *Nature Human Behaviour.*
-
----
-
 *Shikha Patel | UC Irvine | Winter 2026*
