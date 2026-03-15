@@ -87,26 +87,4 @@ python Final_prediction.py
 
 ---
 
-## Results Summary
-
-### Regression Benchmark (Test Set, n = 45,000)
-
-| Model | Stress R² | Stress RMSE | Happy R² | IG Min R² | IG Min RMSE |
-|---|---|---|---|---|---|
-| OLS | 0.7195 | 6.279 | 0.1502 | 0.9822 | 14.726 |
-| Random Forest | 0.7334 | 6.121 | 0.1602 | 0.9916 | 10.118 |
-| XGBoost | 0.7358 | 6.094 | 0.1629 | 0.9968 | 6.290 |
-| LightGBM | 0.7354 | 6.099 | 0.1630 | **0.9978** | **5.163** |
-
-### Classification: High-Stress Binary (PSS ≥ 30, 26.8% positive class)
-
-| Model | AUC | AP | F1 | Brier |
-|---|---|---|---|---|
-| Logistic Regression | 0.9290 | 0.8203 | 0.7329 | 0.0957 |
-| Random Forest | 0.9281 | 0.8169 | 0.7301 | 0.0961 |
-| XGBoost | **0.9293** | **0.8217** | 0.7313 | **0.0953** |
-| LightGBM | 0.9291 | 0.8206 | **0.7339** | 0.0954 |
-
----
-
 *Shikha Patel | UC Irvine | Winter 2026*
