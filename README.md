@@ -36,7 +36,6 @@ feature attribution.
 ├── Final_inference.py    # Part 2: OLS nested models, GLMs, interaction tests  
 ├── Final_prediction.py   # Part 3: Regression benchmark, classification, SHAP
 ├── data/                 # Place instagram_usage_lifestyle_1million.csv here
-└── outputs/              # Generated figures and tables saved here
 ```
 
 ---
